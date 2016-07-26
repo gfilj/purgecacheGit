@@ -1,0 +1,14 @@
+purgecache\config\RootConfig.class
+purgecache\config\PurgeCacheWebInitializer.class
+purgecache\bean\Varnish.class
+purgecache\web\PurgeController.class
+purgecache\config\WebConfig.class
+purgecache\util\httpUtil\HttpPurge.class
+purgecache\task\Test.class
+purgecache\task\SimgTask.class
+purgecache\bean\PurgeResult.class
+purgecache\task\OriginTask.class
+purgecache\task\VarnishTask$SendPurgeRun.class
+purgecache\util\common\Configuration.class
+purgecache\util\httpUtil\HttpPost.class
+purgecache\task\VarnishTask.class
